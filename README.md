@@ -174,3 +174,11 @@ headers: {
 
 > ⚠️ Nunca commite tokens no repositório. Use variáveis de ambiente (`.env`).
 
+# Imagens
+<img width="1888" height="887" alt="image" src="https://github.com/user-attachments/assets/537fde95-aa21-4617-91ed-f3259c47c4d5" />
+<img width="1823" height="1001" alt="image" src="https://github.com/user-attachments/assets/5c3f7a30-654f-4a75-87d8-adc67c4f3530" />
+<img width="1701" height="974" alt="image" src="https://github.com/user-attachments/assets/e330f005-c061-4455-abe6-884933c2ce01" />
+
+
+
+
